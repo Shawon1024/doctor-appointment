@@ -1,1 +1,1 @@
-# Doctor's Appointment Management System
+# Doctor Surgery Appointment Management System
